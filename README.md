@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalho como desenvolvedora Frontend
-- 🌱 Estudo Angular e Desenvolvimento Backend
+- 🌱 Estudo Angular, TypeScript, Python e Desenvolvimento Backend
 - 📫 Contate-me através do e-mail: carolmacioti.dev@gmail.com
 
 ##
